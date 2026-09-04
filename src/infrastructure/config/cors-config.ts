@@ -2,8 +2,7 @@ import type {CorsOptions} from "cors";
 
 const whitelist = [
     'http://localhost:5173',
-    'http://localhost:4001',
-    'https://survey-app.variedades-smith.xyz',
+    'https://food-go-12980.web.app',
 ];
 
 export const corsConfig: CorsOptions = {
