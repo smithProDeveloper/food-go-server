@@ -1,0 +1,12 @@
+PORT=4000
+
+URL_CONNECT_DATA_BASE=postgresql://postgres.[algunacosa]:[passwordDb]@aws-1-us-east-2.pooler.supabase.com:5432/postgres
+
+JWT_SECRET=[secretJWT]
+JWT_EXPIRES_IN=1d
+JWT_VERIFY_CODE_EXPIRES_IN=20m
+
+API_KEY_RESEND=[keyResend]
+
+CRYPTO_SECRET_KEY=[keyCrypto]
+
