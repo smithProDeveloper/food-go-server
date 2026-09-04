@@ -26,7 +26,7 @@ export class ResendService implements IResendService {
                     </p>
 
                     <a
-                    href="http://localhost:5173/register/${token}"
+                    href="https://food-go-12980.web.app/register/${token}"
                     style="
                         display:inline-block;
                         padding:12px 20px;
